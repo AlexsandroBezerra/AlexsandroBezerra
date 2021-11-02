@@ -4,6 +4,11 @@
 #### :green_heart: React.js Developer at Stone Co.
 #### :seedling: I’m currently learning WEB Performance.
 
+---
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsandrobezerra)](https://www.linkedin.com/in/alexsandrobezerra)
+
+<!--
 <details>
   <summary>My Stats</summary>
 
@@ -12,10 +17,7 @@
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroBezerra&layout=compact&theme=radical" />
   </p>
 </details>
-
----
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsandrobezerra)](https://www.linkedin.com/in/alexsandrobezerra)
+-->
 
 <!--
 - 🔭 I’m currently working on ...
