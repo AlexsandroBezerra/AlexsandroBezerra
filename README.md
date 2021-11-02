@@ -7,7 +7,7 @@
 <details>
   <summary>My Stats</summary>
 
-  <p align="center" display="flex" style="display: flex;">
+  <p align="center" display="flex">
     <img alt="Alexsandro's github stats" src="https://github-readme-stats.vercel.app/api?username=AlexsandroBezerra&show_icons=true&theme=radical" />
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandroBezerra&layout=compact&theme=radical" />
   </p>
