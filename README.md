@@ -1,10 +1,10 @@
 ## Hello, There, I'm Alexsandro Bezerra! :wave:
 
 #### :telescope: Developing solutions for people.
-#### :green_heart: React.js Developer at Stone Co.
-#### :seedling: I’m currently learning WEB Performance.
+#### :green_heart: Node.js Developer at NT Consult.
+#### :seedling: I’m currently learning Micro Services.
 
----
+<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsandrobezerra)](https://www.linkedin.com/in/alexsandrobezerra)
 
