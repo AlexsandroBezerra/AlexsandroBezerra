@@ -1,7 +1,7 @@
 ## Hello, There, I'm Alexsandro Bezerra! :wave:
 
 #### :telescope: Developing solutions for people.
-#### :green_heart: Node.js Developer at NT Consult.
+#### :green_heart: Node.js Developer.
 #### :seedling: I’m currently learning Micro Services.
 
 <br />
